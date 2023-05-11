@@ -1,0 +1,44 @@
+<buttons>
+  <button rank="101">
+    <image>atlas://data/images/defaulttheme/button</image>
+    <script/>
+    <row>1</row>
+    <col>1</col>
+    <id>time</id>
+  </button>
+  <button rank="104">
+    <image>atlas://data/images/defaulttheme/button</image>
+    <script/>
+    <row>1</row>
+    <col>4</col>
+    <id>date</id>
+  </button>
+  <button rank="301">
+    <text>Button 6</text>
+    <image>/home/pi/Desktop/app_icons/music_icon.png</image>
+    <script/>
+    <row>3</row>
+    <col>1</col>
+  </button>
+  <button rank="302">
+    <text>Button 1</text>
+    <image>/home/pi/Desktop/app_icons/radio_icon.png</image>
+    <script/>
+    <row>3</row>
+    <col>2</col>
+  </button>
+  <button rank="401">
+    <text>Button 3</text>
+    <image>/home/pi/Desktop/app_icons/settings_icon.png</image>
+    <script/>
+    <row>4</row>
+    <col>1</col>
+  </button>
+  <button rank="402">
+    <text>Button 2</text>
+    <image>/home/pi/Desktop/app_icons/wifi_icon.png</image>
+    <script/>
+    <row>4</row>
+    <col>2</col>
+  </button>
+</buttons>
